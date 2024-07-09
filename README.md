@@ -1,4 +1,4 @@
-## Oii!! Eu sou Marllon Wendel prazer te conhecer!👋
+## Oii!! Eu sou Marllon Wendel prazer em te conhecer!👋
 
 - 🔭 Hoje eu trabalho com beck-end
 - 🌱 Estudando NodeJS
